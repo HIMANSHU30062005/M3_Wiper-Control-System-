@@ -1,1 +1,6 @@
-
+## The objectives of this project are to upgrade the older cars system by providing automatic wiping system.
+## Wiper is an essential component that used to wipe raindrops or any water from the vehicle’s windscreen. The previous system used to activate the wiper manually and the process of pulling up the wiper is difficult to be handled. Thus, this system is proposed to solve these problems. 
+## Wiper is an essential component that used to wipe raindrops or any water from the vehicle’s windscreen. The previous system used to activate the wiper manually and the process of pulling up the wiper is difficult to be handled. Thus, this system is proposed to solve these problems.
+## The rain sensor was a highly versatile device for automatic wiping of vehicle windscreen when it is wet due to moisture, raindrops or even mud.
+## It worked by reflecting harmonious light beams within the windscreen. When raindrops fall onto the windscreen, this harmony light is been disturbed and creating a drop in the light beam intensity. The system then activated the wipers to be operated in full automatic mode. It has a response time at 0.1 seconds.
+## A driver may be subjected to many distractions with bad weather, dangerous road conditions and fatigue. The Rain Sensor reduced the driver’s burden by making the driving more comfortable.
